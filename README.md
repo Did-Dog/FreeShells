@@ -1,7 +1,25 @@
 This is an excellent set of links,  **In-Browser Emulation (Client-Side VM)**, **Remote Server Access (Server-Side VPS/Shell)**, and **Public Access Shells (Community)**.
-This is a great request, as it forces a deeper analysis of the actual user experience and the level of server control offered by each service.
 
 
+Category,Service Name,Direct Link,Notes
+Client-Side Emulation,JSLinux,https://bellard.org/jslinux/,"In-browser, self-contained Linux/OS emulation."
+,WebVM,https://webvm.io/,"Fast, WebAssembly-based Linux virtualization."
+,WebVM (Alpine),https://webvm.io/alpine.html,Direct link to the Alpine Linux environment on WebVM.
+,v86 (copy.sh),https://copy.sh/v86/?profile=linux26,Popular JavaScript/WebAssembly x86 emulator.
+,JS/UIX (Masswerk),https://www.masswerk.at/jsuix/index.html,UNIX-like command line environment in JavaScript.
+,VFSync,https://vfsync.org/index.html,Provides file persistence for JSLinux and similar emulators.
+Remote Server/Terminal,DistroSea,https://distrosea.com/,Test-drive many Linux distros via remote desktop.
+,LinuxZoo,https://linuxzoo.net/,Remote Linux machines for structured learning and exercises.
+,Webminal,https://www.webminal.org/,Online terminal and IDE for learning Linux commands and programming.
+,OnWorks,https://www.onworks.net/,Full remote graphical desktops for Linux and Windows applications.
+,AppOnFly,https://www.apponfly.com/,Remote Windows VPS/Gaming trial (often includes free/trial access).
+,CoCalc Terminal,https://cocalc.com/features/terminal,Collaborative cloud platform with a full Linux terminal.
+Public Access Shells,SDF.org,https://sdf.org,Famous Public Access UNIX System (accessible via SSH).
+,YUNIX.net,https://yunix.net/,Community-driven Public Access UNIX Shell.
+,THC Segfault,https://www.thc.org/segfault/,"Free, disposable root servers for security research (accessed via SSH)."
+Useful/Reference,Kusho AI Blog Post,https://blog.kusho.ai/learn-try-linux-in-your-web-browser/,Article referencing sites to try Linux in the browser.
+,ArulJohn Free Shells,https://aruljohn.com/freeshell/,A resource/list related to free shell accounts.
+,Geekflare Blog Post,https://geekflare.com/dev/run-linux-from-a-web-browser/,Article on how to run Linux from a web browser.
 
 ---
 
