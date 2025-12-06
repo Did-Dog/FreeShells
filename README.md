@@ -1,7 +1,7 @@
-This is an excellent set of links, all pointing to various ways to access Linux/UNIX resources for free online. The core technologies used by these services fall into three main categories: **In-Browser Emulation (Client-Side VM)**, **Remote Server Access (Server-Side VPS/Shell)**, and **Public Access Shells (Community)**.
+This is an excellent set of links,  **In-Browser Emulation (Client-Side VM)**, **Remote Server Access (Server-Side VPS/Shell)**, and **Public Access Shells (Community)**.
 This is a great request, as it forces a deeper analysis of the actual user experience and the level of server control offered by each service.
 
-Here is the classification based on the requested terms (**Access Method** and **Functionality Priority**), using information gathered from the web.
+
 
 ---
 
